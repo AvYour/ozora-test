@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1067058371421",
+    "project_id": "ozora-test-app",
+    "storage_bucket": "ozora-test-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067058371421:android:1bfbc59206f261010f66b4",
+        "android_client_info": {
+          "package_name": "com.example.ozora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApTc0zxz7YnEFZFvK4IwmZ6_GHGklQZlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067058371421:android:26aa168b540a7da80f66b4",
+        "android_client_info": {
+          "package_name": "com.example.ozora_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApTc0zxz7YnEFZFvK4IwmZ6_GHGklQZlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067058371421:android:7419a3b29d1391300f66b4",
+        "android_client_info": {
+          "package_name": "com.ozora.testapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApTc0zxz7YnEFZFvK4IwmZ6_GHGklQZlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
